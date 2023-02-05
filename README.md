@@ -1,6 +1,5 @@
 # 💫 About Me:
-I'm Currently a B-Tech student  from Kerala, doing my 2 semester in Sahrdaya College of Engeniering and Technology.<br>
-I'm very much obssed for web desgining and development . 
+I am a dedicated and motivated computer science student in my second year of study at Shardaya College of Engineering and Technology. My passion lies in web development and competitive programming, and I have worked hard to develop my skills, becoming a full-stack developer with expertise in the MERN stack. My determination has allowed me to work on several projects, which I showcase on my GitHub profile.
 
 
 ## 🌐 Socials:
