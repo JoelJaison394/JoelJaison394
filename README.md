@@ -1,26 +1,68 @@
+# 👋 Hello, I'm Joel Jaison
+### Software Developer Intern @ **IBM** | Rust & Full-Stack Enthusiast
 
-# 💫 Joel Jaison:
-Ahoy there! 🏴‍☠️ I'm Joel Jaison, a computer science student and web developer extraordinaire. When I'm not busy taking over the internet, you can usually find me 🌳 exploring new programming languages and technologies. Currently, I'm making the transition from MERN stack to Rust for backend development, because why settle for one stack when you can have it all, right? 💪<br><br>I'm also a competitive programmer who's participated in coding contests conducted by GeeksforGeeks. Don't let my programming skills fool you, though - I'm also a master of dad jokes and puns. 😜 So if you're ever feeling down, just come find me and I'll tell you a joke that's so bad it's good. 😂<br><br>And did I mention that I'm a fan of all things web and Android development? From HTML and CSS to Kotlin and Java, I can handle it all. But let's be real - the real MVPs are the frameworks and libraries that make our lives easier. 🚀 So, if you need help with Yew or Rocket frameworks of Rust, just give me a shout! 📣<br><br>So, that's me in a nutshell. Remember, programming may be serious business, but that doesn't mean we can't have fun along the way. Let's code some amazing things together! 🎉
-
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/joeljaison391) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/19079277) 
-
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=flat&logo=rust&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white) ![Green Sock](https://img.shields.io/badge/green%20sock-88CE02?style=flat&logo=greensock&logoColor=white) ![Insomnia](https://img.shields.io/badge/Insomnia-black?style=flat&logo=insomnia&logoColor=5849BE) ![JWT](https://img.shields.io/badge/JWT-black?style=flat&logo=JSON%20web%20tokens) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?style=flat&logo=svelte&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=joeljaison394&theme=gotham&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=joeljaison394&theme=gotham&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=joeljaison394&theme=gotham&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=joeljaison394&theme=dracula&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=merko)
-
-
+<p align="left">
+  <img src="https://img.shields.io/badge/IBM-052FAD?style=for-the-badge&logo=ibm&logoColor=white" />
+  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=joeljaison394&icon=4&color=0)](https://visitcount.itsvg.in)
 
+### 👨‍💻 About Me
+I am a Computer Science professional currently contributing to **IBM Watson Knowledge Catalog's Governance UI**. My work focuses on building enterprise-grade React components using the **Carbon Design System** and ensuring high accessibility standards (WCAG 2.1 AA). 
+
+Beyond my professional role, I am a passionate advocate for **Rust**, transitioning complex backends to more memory-safe and performant architectures. I lead technical initiatives as the **Tech Lead at GDSC Sahrdaya** and enjoy building tools that solve real-world productivity gaps.
+
+- 🔭 **Current Focus:** Enterprise UI Governance & Rust Backend Architecture.
+- ⚡ **Expertise:** React, Node.js, Rust (Tauri/Rocket/Yew), and Cloud Integration.
+- 🎓 **Education:** Pursuing MSc in Artificial Intelligence (University of Galway, Autumn '26).
+- 💬 **Ask me about:** Micro-SaaS development, Web accessibility, or why I love Rust.
+
+---
+
+### 🛠️ Tech Stack & Tools
+
+| Category | Tech/Tools |
+| :--- | :--- |
+| **Frontend** | ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white) ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white) ![Svelte](https://img.shields.io/badge/-Svelte-FF3E00?logo=svelte&logoColor=white) ![Tailwind](https://img.shields.io/badge/-Tailwind-38B2AC?logo=tailwind-css&logoColor=white) |
+| **Backend** | ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white) ![Rust](https://img.shields.io/badge/-Rust-000000?logo=rust&logoColor=white) ![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white) |
+| **Databases** | ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/-Redis-DC382D?logo=redis&logoColor=white) |
+| **Enterprise** | ![IBM Watson](https://img.shields.io/badge/-IBM%20Watson-052FAD?logo=ibm-watson&logoColor=white) ![Carbon Design](https://img.shields.io/badge/-Carbon%20Design-052FAD) |
+
+---
+
+### 📊 Performance Metrics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=joeljaison394&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Joel's GitHub Stats" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joeljaison394&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=joeljaison394&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+---
+
+### 📂 Featured Projects
+
+- **[KeyPilot](https://github.com/joeljaison394/keypilot)**: Semantic API Gateway with AI Routing & Caching.
+- **[StarBoard](https://github.com/joeljaison394/starboard)**: Desktop Task Manager built with **Rust & Tauri**.
+- **[Downloads Organizer](https://github.com/joeljaison394/downloads-organizer)**: Automated file management system written in Rust.
+
+---
+
+### 🌐 Connect With Me
+
+<p align="left">
+  <a href="https://joeljaison.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/joeljaison391"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://dev.to/joeljaison394"><img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" /></a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
+</p>
