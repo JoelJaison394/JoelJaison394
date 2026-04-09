@@ -1,5 +1,5 @@
 # 👋 Hello, I'm Joel Jaison
-### Software Developer Intern @ **IBM** | Rust & Full-Stack Enthusiast
+### Software Developer @ **IBM** | Rust & Full-Stack Enthusiast
 
 <p align="left">
   <img src="https://img.shields.io/badge/IBM-052FAD?style=for-the-badge&logo=ibm&logoColor=white" />
